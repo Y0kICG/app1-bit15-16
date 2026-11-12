@@ -12,7 +12,7 @@ export default function Index() {
 
       {/* ชื่อ + คำคม */}
       <Text style={styles.name}>ชวิศ หมั่นวงส์</Text>
-      <Text style={styles.quote}>ความรักก็เหมือนfaceที่กลับด้าน มีอยู่แต่มองไม่เห็น</Text>
+      <Text style={styles.quote}>เธอเป็นเกลือหรือเปล่า ทำไมใจฉันถึงเค็มทุกครั้งที่ไม่เจอเธอ</Text>
 
       {/* กล่องข้อมูล */}
       <View style={styles.card}>
